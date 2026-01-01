@@ -1,72 +1,105 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=220&section=header&text=Ritish%20Bhatt&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20M.Tech%20IIT%20Kharagpur&descAlignY=55&descSize=25" />
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Ritish%20Bhatt&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/ritish-bhatt"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:bhattritish05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+<!-- ===================== INTRO ===================== -->
+<h2 align="center">M.Tech in Artificial Intelligence @ IIT Kharagpur (2025–2027)</h2>
 
-  ---
-  
-  ### 💫 "Blending the precision of AI with the soul of Art"
-  
-  ---
-</div>
+<p align="center">
+  <i>Machine Learning • Artificial Intelligence • Computer Vision • Data-Driven Systems</i>
+</p>
 
-## 🪐 Journey So Far
-- 🎓 **M.Tech Artificial Intelligence** @ [IIT Kharagpur](https://www.iitkgp.ac.in/) (2025-27)
-- 🧪 Specialized in **Visual Computing** & **Digital Forensics**
-- 🎨 **Art Enthusiast:** Led a team of 30+ artists as Head of Art Dept (Magboard)
-- ⚽ **Athlete:** Football fanatic — strategy on the pitch, logic on the screen.
-
----
-
-## 🛠️ Tech Universe
-
-<div align="center">
-
-| **Core AI & Vision** | **Data & Deployment** | **Tools & OS** |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn" /> | <img src="https://skillicons.dev/icons?i=flask,streamlit,mysql,postman" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> |
-| `OpenCV` `ELA` `CNNs` | `Pandas` `Numpy` `SMOTE` | `Jupyter` `Bash` `HPC` |
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ritishb05">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📂 Digital Gallery (Top Projects)
+## 👨‍💻 About Me
 
-### 🛡️ [Network Intrusion Detection (NIDS)](https://github.com/RitishB05/Network-Intrusion-Detection-System)
-> *Advanced Security & ML*
-- Reduced feature space to **5 key attributes**, achieving **0.98 ROC-AUC**.
-- Handled Data Leakage & Imbalance using **SMOTE** logic.
-- Built a real-time monitoring **Flask Dashboard**.
-
-### 🔍 ForgeryLens: Image Forensics
-> *Computer Vision & CNNs*
-- Forensic tool using **Error Level Analysis (ELA)** to detect image splicing.
-- Specialized in identifying compression inconsistencies via Deep Learning.
-
-### 🏏 IPL Match Predictor
-> *Predictive Analytics*
-- Probability engine using **Logistic Regression** for live match win-rates.
+- 🎓 **M.Tech in Artificial Intelligence** at **IIT Kharagpur (2025–2027)**
+- 💡 Deeply passionate about **Machine Learning & AI**
+- 🧠 Interested in **Computer Vision, Intelligent Systems & Applied ML**
+- 🔬 Love building **real-world ML projects**, not just models
+- 🎨 In my free time, I enjoy **artwork & creative expression**
+- ⚽ **Avid football fan** — love playing football and sports in general
 
 ---
 
-## 📊 Decoding My Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitishB05&show_icons=true&theme=transparent&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitishB05&layout=compact&theme=transparent&hide_border=true&title_color=00d2ff&text_color=ffffff" width="40%" />
-</div>
+## 🧠 Areas of Interest
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitishB05&theme=transparent&hide_border=true&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" width="100%" />
-</div>
+- Machine Learning & Deep Learning  
+- Computer Vision & Image Forensics  
+- Predictive Analytics  
+- Applied AI Systems  
+- Research-oriented problem solving  
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RitishB05&label=PROFILE+VIEWS&color=00d2ff&style=flat" alt="Views" />
-</div>
+## 🛠 Tech Stack
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+### 📚 Libraries & Frameworks
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-F43F10?style=flat&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🔍 Network Intrusion Detection System
+**ML-based intrusion detection system** built using UNSW-NB15 dataset  
+- Advanced preprocessing & feature engineering  
+- High ROC-AUC performance  
+- Flask-based web interface  
+
+🔗 Repository:  
+https://github.com/RitishB05/Network-Intrusion-Detection-System
+
+---
+
+### 🖼️ ForgeryLens – Image Forgery Detection
+AI-powered **image forensics system**  
+- CNN-based approach  
+- Error Level Analysis (ELA)  
+- Detects manipulated images  
+
+🔗 Repository:  
+https://github.com/RitishB05/ForgeryLens
+
+---
+
+### 📊 IPL Match Strategy Optimization
+Predictive analytics project for **IPL match outcomes**  
+- Logistic Regression  
+- Data-driven decision support  
+
+🔗 Repository:  
+https://github.com/RitishB05/IPL-Strategy-Optimization-ML
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RitishB05&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitishB05&theme=github-dark&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🌱 Beyond Code
+
+- 🎨 Creating **artworks** in free time  
+- ⚽ Passionate footb
