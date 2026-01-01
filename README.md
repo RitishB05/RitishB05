@@ -1,141 +1,92 @@
-<!-- ======================= DARK BANNER ======================= -->
+<!-- ===================== DARK GRADIENT BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&section=header&text=Ritish%20Bhatt&fontSize=42&fontColor=58a6ff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,100:0a1a2f&text=Ritish%20Bhatt&fontSize=44&fontColor=58a6ff&animation=fadeIn" />
 </p>
 
-<!-- ======================= TITLE ======================= -->
+<!-- ===================== SUBTITLE ===================== -->
 <h2 align="center">
-  🎓 M.Tech in Artificial Intelligence <br/>
-  <sub>IIT Kharagpur (2025 – 2027)</sub>
+  M.Tech in Artificial Intelligence  
 </h2>
 
+<h4 align="center">
+  Indian Institute of Technology Kharagpur (2025 – 2027)
+</h4>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Research-blue?style=flat-square&logo=openai"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Expertise-informational?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-Focus-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20Research-0d1117?style=flat-square&logo=openai&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=flat-square&logo=python&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-0d1117?style=flat-square&logo=opencv&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/Anime%20Fan-0d1117?style=flat-square&logo=crunchyroll&logoColor=ff9f1c"/>
 </p>
 
-<!-- ======================= SOCIAL LINKS ======================= -->
+<!-- ===================== SOCIAL ===================== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ritishb05">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Profile Summary
+## 👤 Who Am I?
 
 <p align="center">
-I am a Master's student in <b>Artificial Intelligence</b> at <b>IIT Kharagpur</b>, passionate about building<br/>
-<b>machine learning systems</b> that solve real-world problems with rigor and clarity.
+I am a <b>Master’s student in Artificial Intelligence</b> at <b>IIT Kharagpur</b>, driven by a strong curiosity<br/>
+to understand how intelligent systems perceive, learn, and make decisions.
 </p>
 
 <p align="center">
-My interests lie in <b>Machine Learning, Computer Vision, Intelligent Systems</b>, and applied AI research.
+I enjoy working at the intersection of <b>Machine Learning, Computer Vision</b>, and <b>real-world applications</b>,<br/>
+where theory meets practical impact.
 </p>
 
----
-
-## 🔬 Areas of Interest
-
 <p align="center">
-🧠 Machine Learning & Deep Learning &nbsp;|&nbsp;
-👁️ Computer Vision & Image Forensics &nbsp;|&nbsp;
-📊 Predictive Analytics & AI Systems
+Beyond academics, I’m someone who balances <b>logic with creativity</b> — whether it’s through artwork,<br/>
+sports, or anime storytelling.
 </p>
 
 ---
 
-## 🛠 Technical Expertise
+## 🧠 Core Interests
 
-### 💻 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff"/>
-  <img src="https://img.shields.io/badge/MATLAB-0d1117?style=flat-square&logo=mathworks&logoColor=58a6ff"/>
-</p>
-
-### 📚 Libraries & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=58a6ff"/>
-  <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=58a6ff"/>
-  <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=58a6ff"/>
-  <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=58a6ff"/>
+🤖 Artificial Intelligence & Intelligent Systems <br/>
+📊 Machine Learning & Data-Driven Modeling <br/>
+👁️ Computer Vision & Image Forensics <br/>
+🔬 Applied Research & System Building
 </p>
 
 ---
 
-## 🚀 Selected Projects
+## 🛠 Tech Arsenal
 
-### 🔍 Network Intrusion Detection System
+### 💻 Programming Languages
 <p align="center">
-ML-based intrusion detection using UNSW-NB15 dataset<br/>
-Feature engineering • Model optimization • Flask deployment
+  <img src="https://skillicons.dev/icons?i=python,matlab&theme=dark" />
 </p>
 
+### 📚 Libraries & Tools
 <p align="center">
-🔗 https://github.com/RitishB05/Network-Intrusion-Detection-System
-</p>
-
----
-
-### 🖼️ ForgeryLens — Image Forgery Detection
-<p align="center">
-AI-driven image forensics system using CNNs & Error Level Analysis
-</p>
-
-<p align="center">
-🔗 https://github.com/RitishB05/ForgeryLens
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,opencv,flask&theme=dark" />
 </p>
 
 ---
 
-### 📊 IPL Match Strategy Optimization
+## 🚀 Featured Projects
+
+### 🔐 Network Intrusion Detection System
 <p align="center">
-Predictive analytics framework for IPL match outcomes using ML
+A robust ML-based intrusion detection framework using the UNSW-NB15 dataset<br/>
+focused on feature engineering, model optimization, and real-time Flask deployment.
 </p>
 
 <p align="center">
-🔗 https://github.com/RitishB05/IPL-Strategy-Optimization-ML
-</p>
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitishB05&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RitishB05&theme=github-dark&hide_border=true" />
+🔗 <a href="https://github.com/RitishB05/Network-Intrusion-Detection-System">View Repository</a>
 </p>
 
 ---
 
-## 🌱 Beyond Academics
-
-<p align="center">
-🎨 Passionate about artwork & creativity <br/>
-⚽ Avid football fan & sports enthusiast <br/>
-📖 Lifelong learner exploring AI beyond coursework
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-📍 IIT Kharagpur <br/>
-📧 your.email@gmail.com <br/>
-🔗 LinkedIn: linkedin.com/in/ritishb05
-</p>
-
----
-
-<p align="center">
-  <sub>Designed with clarity, precision, and purpose.</sub>
-</p>
+### 🖼️ Forge
