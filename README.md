@@ -89,4 +89,63 @@ focused on feature engineering, model optimization, and real-time Flask deployme
 
 ---
 
-### 🖼️ Forge
+### 🖼️ ForgeryLens — Image Forgery Detection
+<p align="center">
+An AI-powered image forensics system leveraging CNNs and Error Level Analysis<br/>
+to detect image manipulations with high reliability.
+</p>
+
+<p align="center">
+🔗 <a href="https://github.com/RitishB05/ForgeryLens">View Repository</a>
+</p>
+
+---
+
+### 📊 IPL Match Strategy Optimization
+<p align="center">
+A predictive analytics project using machine learning models to optimize<br/>
+IPL match strategies and outcome prediction.
+</p>
+
+<p align="center">
+🔗 <a href="https://github.com/RitishB05/IPL-Strategy-Optimization-ML">View Repository</a>
+</p>
+
+---
+
+## 📈 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RitishB05&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RitishB05&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌌 Beyond Code
+
+<p align="center">
+🎨 I enjoy creating artworks and visual expressions <br/>
+⚽ Avid football fan — love playing and watching the game <br/>
+🎌 Anime enthusiast — appreciate storytelling, character depth & world-building <br/>
+📚 Continuous learner with curiosity beyond the curriculum
+</p>
+
+---
+
+## 📬 Reach Out
+
+<p align="center">
+📍 IIT Kharagpur <br/>
+📧 your.email@gmail.com <br/>
+🔗 <a href="https://www.linkedin.com/in/ritishb05">LinkedIn Profile</a>
+</p>
+
+---
+
+<p align="center">
+  <sub><b>“Blending intelligence, creativity, and discipline.”</b></sub>
+</p>
