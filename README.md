@@ -1,105 +1,107 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ======================= DARK BANNER ======================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Ritish%20Bhatt&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&section=header&text=Ritish%20Bhatt&fontSize=42&fontColor=58a6ff&animation=fadeIn" />
 </p>
 
-<!-- ===================== INTRO ===================== -->
-<h2 align="center">M.Tech in Artificial Intelligence @ IIT Kharagpur (2025–2027)</h2>
+<!-- ======================= TITLE ======================= -->
+<h2 align="center">
+  🎓 M.Tech in Artificial Intelligence <br/>
+  <sub>IIT Kharagpur (2025 – 2027)</sub>
+</h2>
 
 <p align="center">
-  <i>Machine Learning • Artificial Intelligence • Computer Vision • Data-Driven Systems</i>
+  <img src="https://img.shields.io/badge/AI-Research-blue?style=flat-square&logo=openai"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Expertise-informational?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-Focus-success?style=flat-square"/>
 </p>
 
+<!-- ======================= SOCIAL LINKS ======================= -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ritishb05">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 Profile Summary
 
-- 🎓 **M.Tech in Artificial Intelligence** at **IIT Kharagpur (2025–2027)**
-- 💡 Deeply passionate about **Machine Learning & AI**
-- 🧠 Interested in **Computer Vision, Intelligent Systems & Applied ML**
-- 🔬 Love building **real-world ML projects**, not just models
-- 🎨 In my free time, I enjoy **artwork & creative expression**
-- ⚽ **Avid football fan** — love playing football and sports in general
+<p align="center">
+I am a Master's student in <b>Artificial Intelligence</b> at <b>IIT Kharagpur</b>, passionate about building<br/>
+<b>machine learning systems</b> that solve real-world problems with rigor and clarity.
+</p>
 
----
-
-## 🧠 Areas of Interest
-
-- Machine Learning & Deep Learning  
-- Computer Vision & Image Forensics  
-- Predictive Analytics  
-- Applied AI Systems  
-- Research-oriented problem solving  
+<p align="center">
+My interests lie in <b>Machine Learning, Computer Vision, Intelligent Systems</b>, and applied AI research.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🔬 Areas of Interest
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+<p align="center">
+🧠 Machine Learning & Deep Learning &nbsp;|&nbsp;
+👁️ Computer Vision & Image Forensics &nbsp;|&nbsp;
+📊 Predictive Analytics & AI Systems
+</p>
+
+---
+
+## 🛠 Technical Expertise
+
+### 💻 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/MATLAB-0d1117?style=flat-square&logo=mathworks&logoColor=58a6ff"/>
+</p>
 
 ### 📚 Libraries & Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-F43F10?style=flat&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=58a6ff"/>
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Selected Projects
 
 ### 🔍 Network Intrusion Detection System
-**ML-based intrusion detection system** built using UNSW-NB15 dataset  
-- Advanced preprocessing & feature engineering  
-- High ROC-AUC performance  
-- Flask-based web interface  
+<p align="center">
+ML-based intrusion detection using UNSW-NB15 dataset<br/>
+Feature engineering • Model optimization • Flask deployment
+</p>
 
-🔗 Repository:  
-https://github.com/RitishB05/Network-Intrusion-Detection-System
+<p align="center">
+🔗 https://github.com/RitishB05/Network-Intrusion-Detection-System
+</p>
 
 ---
 
-### 🖼️ ForgeryLens – Image Forgery Detection
-AI-powered **image forensics system**  
-- CNN-based approach  
-- Error Level Analysis (ELA)  
-- Detects manipulated images  
+### 🖼️ ForgeryLens — Image Forgery Detection
+<p align="center">
+AI-driven image forensics system using CNNs & Error Level Analysis
+</p>
 
-🔗 Repository:  
-https://github.com/RitishB05/ForgeryLens
+<p align="center">
+🔗 https://github.com/RitishB05/ForgeryLens
+</p>
 
 ---
 
 ### 📊 IPL Match Strategy Optimization
-Predictive analytics project for **IPL match outcomes**  
-- Logistic Regression  
-- Data-driven decision support  
-
-🔗 Repository:  
-https://github.com/RitishB05/IPL-Strategy-Optimization-ML
-
----
-
-## 📈 GitHub Statistics
+<p align="center">
+Predictive analytics framework for IPL match outcomes using ML
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitishB05&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitishB05&theme=github-dark&hide_border=true" height="160"/>
+🔗 https://github.com/RitishB05/IPL-Strategy-Optimization-ML
 </p>
 
 ---
 
-## 🌱 Beyond Code
-
-- 🎨 Creating **artworks** in free time  
-- ⚽ Passionate footb
+## 📈 GitHub Analyti
