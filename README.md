@@ -1,79 +1,96 @@
-<!-- ===================== HERO BANNER ===================== -->
+<!-- ===================================================== -->
+<!-- ===================== HERO ========================== -->
+<!-- ===================================================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ritish%20Bhatt&fontSize=45&fontColor=58a6ff&color=0d1117&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ritish%20Bhatt&fontSize=48&fontColor=58a6ff&color=0d1117&animation=fadeIn" />
 </p>
 
 <h2 align="center">
-  M.Tech in Artificial Intelligence @ IIT Kharagpur
+  M.Tech in Artificial Intelligence
 </h2>
 
 <p align="center">
-  <sub><b>2025 – 2027 | AI • ML • Computer Vision • Intelligent Systems</b></sub>
+  <b>IIT Kharagpur • 2025 – 2027</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-0d1117?style=flat-square&logo=openai&logoColor=58a6ff"/>
-  <img src="https://img.shields.io/badge/ML%20Engineer-0d1117?style=flat-square&logo=tensorflow&logoColor=58a6ff"/>
-  <img src="https://img.shields.io/badge/Anime%20Fan-0d1117?style=flat-square&logo=crunchyroll&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/Football%20Lover-0d1117?style=flat-square&logo=adidas&logoColor=white"/>
+  <sub>
+    Artificial Intelligence · Machine Learning · Computer Vision · Applied Research
+  </sub>
 </p>
+
+<br/>
+
+<!-- ===================================================== -->
+<!-- ===================== BADGES ======================== -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Researcher-0d1117?style=for-the-badge&logo=openai&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/ML%20Engineer-0d1117?style=for-the-badge&logo=tensorflow&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/Anime%20Inspired-0d1117?style=for-the-badge&logo=crunchyroll&logoColor=ff9f1c"/>
+  <img src="https://img.shields.io/badge/Football%20Athlete-0d1117?style=for-the-badge&logo=nike&logoColor=white"/>
+</p>
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ritishb05">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
 
 ---
 
-## 👤 Who Am I?
+## 🧬 Identity
 
 <p align="center">
-I’m an <b>AI postgraduate student</b> at <b>IIT Kharagpur</b> who loves building<br/>
-<b>intelligent, data-driven systems</b> that actually work in the real world.
+I am a postgraduate student specializing in <b>Artificial Intelligence</b> at <b>IIT Kharagpur</b>,<br/>
+driven by a deep fascination for how intelligent systems learn, reason, and adapt.
 </p>
 
 <p align="center">
-My journey revolves around <b>Machine Learning, Artificial Intelligence</b>, and<br/>
-exploring how models transition from theory to impactful applications.
+My work lies at the intersection of <b>machine learning theory</b> and<br/>
+<b>real-world, high-impact AI applications</b>.
 </p>
 
 ---
 
-## 🧠 What I’m Passionate About
+## 🧠 Core Interests
 
 <p align="center">
-🤖 Artificial Intelligence & Machine Learning <br/>
+🤖 Machine Learning & Deep Learning <br/>
 👁️ Computer Vision & Image Forensics <br/>
-📊 Predictive Analytics & Decision Systems <br/>
-🧪 Research-oriented ML workflows <br/>
+🧪 Research-driven AI systems <br/>
+📊 Predictive & Decision-Making Models <br/>
 </p>
 
 ---
 
-## 🧑‍💻 What I’m Currently Working On
+## 🧪 Current Focus
 
 <p align="center">
-• Advanced ML pipelines for security & intrusion detection <br/>
-• Image forensics and manipulation detection using deep learning <br/>
-• Strengthening foundations in applied AI research <br/>
+• Designing robust ML pipelines for security-critical systems <br/>
+• Exploring deep learning techniques for image manipulation detection <br/>
+• Strengthening foundations for long-term AI research <br/>
 </p>
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 Technical Arsenal
 
-### 💻 Languages
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,matlab&theme=dark" />
 </p>
 
-### 📚 Frameworks & Tools
+### Libraries & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,opencv" />
+  <img src="https://skillicons.dev/icons?i=flask,opencv&theme=dark" />
 </p>
 
 <p align="center">
@@ -83,69 +100,68 @@ exploring how models transition from theory to impactful applications.
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Signature Projects
 
 ### 🔐 Network Intrusion Detection System
 <p align="center">
-ML-powered intrusion detection system using UNSW-NB15 dataset <br/>
-Feature engineering • Model evaluation • Flask-based interface
+End-to-end ML system for detecting network intrusions using UNSW-NB15 dataset <br/>
+Feature engineering · Model optimization · Flask deployment
 </p>
 
 <p align="center">
-🔗 https://github.com/RitishB05/Network-Intrusion-Detection-System
+🔗 <a href="https://github.com/RitishB05/Network-Intrusion-Detection-System">Repository</a>
 </p>
 
 ---
 
-### 🖼️ ForgeryLens – Image Forgery Detection
+### 🖼️ ForgeryLens — Image Forgery Detection
 <p align="center">
-Deep learning-based image manipulation detection system <br/>
-CNNs • Error Level Analysis • Forensic AI
+AI-based image forensics framework leveraging CNNs & Error Level Analysis
 </p>
 
 <p align="center">
-🔗 https://github.com/RitishB05/ForgeryLens
+🔗 <a href="https://github.com/RitishB05/ForgeryLens">Repository</a>
 </p>
 
 ---
 
 ### 📊 IPL Match Strategy Optimization
 <p align="center">
-Predictive analytics for IPL match outcomes using ML models
+Machine learning-driven predictive analytics for IPL match outcomes
 </p>
 
 <p align="center">
-🔗 https://github.com/RitishB05/IPL-Strategy-Optimization-ML
-</p>
-
----
-
-## 📈 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitishB05&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RitishB05&theme=github-dark&hide_border=true" height="165"/>
+🔗 <a href="https://github.com/RitishB05/IPL-Strategy-Optimization-ML">Repository</a>
 </p>
 
 ---
 
-## 🎨 Beyond Academics
+## 📈 GitHub Intelligence
 
 <p align="center">
-🎨 I enjoy creating artwork as a creative outlet <br/>
-⚽ A passionate football player & sports enthusiast <br/>
-🎌 Anime fan — inspired by storytelling, discipline & growth <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RitishB05&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RitishB05&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Let’s Connect
+## 🎌 Beyond Code
 
 <p align="center">
-📍 IIT Kharagpur <br/>
+🎨 Creating artwork as a form of balance and expression <br/>
+⚽ Football — discipline, teamwork, resilience <br/>
+🎌 Anime — storytelling, growth mindset, perseverance <br/>
+</p>
+
+---
+
+## 📡 Contact & Collaboration
+
+<p align="center">
+📍 Indian Institute of Technology Kharagpur <br/>
 📧 your.email@gmail.com <br/>
 🔗 linkedin.com/in/ritishb05
 </p>
@@ -153,5 +169,7 @@ Predictive analytics for IPL match outcomes using ML models
 ---
 
 <p align="center">
-  <sub><b>Built with curiosity, discipline, and a love for AI.</b></sub>
+  <sub>
+    <i>"Build with intent. Learn with discipline. Grow relentlessly."</i>
+  </sub>
 </p>
