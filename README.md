@@ -104,4 +104,38 @@ Predictive analytics framework for IPL match outcomes using ML
 
 ---
 
-## 📈 GitHub Analyti
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RitishB05&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RitishB05&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Beyond Academics
+
+<p align="center">
+🎨 Passionate about artwork & creativity <br/>
+⚽ Avid football fan & sports enthusiast <br/>
+📖 Lifelong learner exploring AI beyond coursework
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+📍 IIT Kharagpur <br/>
+📧 your.email@gmail.com <br/>
+🔗 LinkedIn: linkedin.com/in/ritishb05
+</p>
+
+---
+
+<p align="center">
+  <sub>Designed with clarity, precision, and purpose.</sub>
+</p>
